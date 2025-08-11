@@ -1,2 +1,3 @@
 # bookbot
-Program to count sum of letters in content
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
